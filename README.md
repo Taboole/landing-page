@@ -1,0 +1,1 @@
+This repo is being created to practice and showcase basic HTML/CSS expertise, or lack thereof.
